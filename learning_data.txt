@@ -1,0 +1,17 @@
+girls : ffilles 
+be : fsois 
+Earth : fterre 
+placed : fmis 
+let : flaisser 
+child : fenfant 
+history : fhistoire 
+request : fdemandé 
+eyes : fyeux 
+towards : fvers 
+meet again : frevoir 
+to play : fjouer 
+train : ftrain 
+thought : fpensais 
+any : faucune 
+them : feux 
+rather : fplutôt 
